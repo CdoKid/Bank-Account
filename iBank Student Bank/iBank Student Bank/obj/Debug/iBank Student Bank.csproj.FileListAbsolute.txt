@@ -1,0 +1,27 @@
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/obj/Debug/iBank Student Bank.csprojAssemblyReference.cache
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/obj/Debug/iBank_Student_Bank.MainForm.resources
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/obj/Debug/iBank_Student_Bank.Properties.Resources.resources
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/obj/Debug/iBank Student Bank.csproj.GenerateResource.cache
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/obj/Debug/iBank Student Bank.csproj.CoreCompileInputs.cache
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/bin/Debug/iBank Student Bank.exe.config
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/bin/Debug/iBank Student Bank.exe
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/bin/Debug/iBank Student Bank.pdb
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/obj/Debug/iBank Student Bank.exe
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/obj/Debug/iBank Student Bank.pdb
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/obj/Debug/iBank_Student_Bank.AboutForm.resources
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/obj/Debug/iBank_Student_Bank.RegistrationForm.resources
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/obj/Debug/iBank_Student_Bank.ManagementForm.resources
+C:/Users/Nyiko Mashakeni/Documents/school/First Semester/INF1003F/project 2/iBank Student Bank/iBank Student Bank/obj/Debug/iBank_Student_Bank.TransactionForm.resources
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/bin/Debug/iBank Student Bank.exe.config
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/bin/Debug/iBank Student Bank.exe
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/bin/Debug/iBank Student Bank.pdb
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/obj/Debug/iBank_Student_Bank.AboutForm.resources
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/obj/Debug/iBank_Student_Bank.MainForm.resources
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/obj/Debug/iBank_Student_Bank.ManagementForm.resources
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/obj/Debug/iBank_Student_Bank.Properties.Resources.resources
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/obj/Debug/iBank_Student_Bank.RegistrationForm.resources
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/obj/Debug/iBank_Student_Bank.TransactionForm.resources
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/obj/Debug/iBank Student Bank.csproj.GenerateResource.cache
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/obj/Debug/iBank Student Bank.csproj.CoreCompileInputs.cache
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/obj/Debug/iBank Student Bank.exe
+/Users/napsta44/Documents/Bank-Account/iBank Student Bank/iBank Student Bank/obj/Debug/iBank Student Bank.pdb

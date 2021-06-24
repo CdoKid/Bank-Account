@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6D96E753-A691-4FE0-A682-237483D9DADD}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="iBank Student Bank/Models/Customer.cs" Line="26" Column="31" />
+      <File FileName="iBank Student Bank/Models/Account.cs" Line="31" Column="1" />
+      <File FileName="iBank Student Bank/RegistrationForm.cs" Line="48" Column="95" />
+      <File FileName="iBank Student Bank/MainForm.cs" Line="38" Column="1" />
+      <File FileName="iBank Student Bank/ManagementForm.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="iBank Student Bank" expanded="True">
+            <Node name="iBank Student Bank" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ManagementForm.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.iBank_220Student_220Bank PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
