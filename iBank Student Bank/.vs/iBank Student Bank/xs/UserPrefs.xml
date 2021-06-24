@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{6D96E753-A691-4FE0-A682-237483D9DADD}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="iBank Student Bank/TransactionForm.cs">
     <Files>
       <File FileName="iBank Student Bank/Models/Customer.cs" Line="26" Column="31" />
       <File FileName="iBank Student Bank/Models/Account.cs" Line="31" Column="1" />
       <File FileName="iBank Student Bank/RegistrationForm.cs" Line="48" Column="95" />
       <File FileName="iBank Student Bank/MainForm.cs" Line="38" Column="1" />
       <File FileName="iBank Student Bank/ManagementForm.cs" Line="21" Column="1" />
+      <File FileName="iBank Student Bank/TransactionForm.cs" Line="36" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +14,7 @@
           <Node name="iBank Student Bank" expanded="True">
             <Node name="iBank Student Bank" expanded="True">
               <Node name="Models" expanded="True" />
-              <Node name="ManagementForm.cs" selected="True" />
+              <Node name="TransactionForm.cs" selected="True" />
             </Node>
           </Node>
         </State>

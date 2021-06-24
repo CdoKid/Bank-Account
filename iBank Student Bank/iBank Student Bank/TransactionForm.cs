@@ -27,14 +27,14 @@ namespace iBank_Student_Bank
 
         private void depositToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            customer.Account.Deposit(decimal.Parse(txtAmount.Text));
-            MessageBox.Show("Deposit Successful!");
+            var balance = customer.Account.Deposit(decimal.Parse(txtAmount.Text));
+            MessageBox.Show($"Deposit Successful! R{balance}");
         }
 
         private void withdrawToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            customer.Account.Deposit(decimal.Parse(txtAmount.Text));
-            MessageBox.Show("Withdrawal successful!");
+            var balance = customer.Account.Deposit(decimal.Parse(txtAmount.Text));
+            MessageBox.Show($"Withdrawal successful! Balance R{balance}");
         }
     }
 }
